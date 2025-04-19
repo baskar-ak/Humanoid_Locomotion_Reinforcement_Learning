@@ -33,5 +33,5 @@ https://github.com/user-attachments/assets/b30f62c3-d421-475b-96d2-a31dd5d71cf8
 * For SAC training: `$ python projectScript.py Humanoid-v4 SAC -t`<br/>
 * For TD3 training: `$ python projectScript.py Humanoid-v4 TD3 -t`<br/>
 * To view logs on Tensorboard: `$ tensorboard --logdir logs`<br/>
-* For SAC testing: `$ python projectScript.py Humanoid-v4 SAC -s .\models\SAC_50000.zip`<br/>
-* For TD3 testing: `$ python projectScript.py Humanoid-v4 TD3 -s .\models\TD3_50000.zip`<br/>
+* For SAC testing: `$ python projectScript.py Humanoid-v4 SAC -s .\models\SAC_50000.pth`<br/>
+* For TD3 testing: `$ python projectScript.py Humanoid-v4 TD3 -s .\models\TD3_50000.pth`<br/>
