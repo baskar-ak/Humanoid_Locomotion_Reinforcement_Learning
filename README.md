@@ -1,5 +1,4 @@
-# CS5180: Reinforcement Learning and Sequential Decision Making 
-## Project: Humanoid Locomotion using Reinforcement Learning
+# Humanoid Locomotion using Reinforcement Learning
 ### Motivation / Problem Statement:
 Humanoid locomotion is the ability of the robots to move like humans, typically walking or running. This remains a challenging problem in robotics and reinforcement learning due to the complexities involved such as – multi joint coordination like head, arms, torso, legs. It is not just making the robot move but maintaining balance and ensuring natural and stable human like movements. Humans are very skilled at maintaining balance while walking, whereas a robot needs to adjust its posture dynamically and stay balanced while walking, especially on uneven surfaces. Moreover, the more degree of freedom a robot has, the harder it is to manage and coordinate the movement of each joint to ensure smooth motion. Solving humanoid locomotion problems will allow robots to assist humans with everyday tasks like carrying objects, helping elderly, etc. They will be able to work in environments such as homes, offices, and hospitals as well as outdoor environments (e.g., rescues missions) providing assistance.<br/><br/>
 
